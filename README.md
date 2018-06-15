@@ -1,11 +1,7 @@
 # erick-da-copa-2018
 
 
-8º - Cris: 3
-8º - Victor: 3
-10º - Bolão: 0
-
-Atualizado 15/06
+Classificação (Atualizado 15/06)
 
 
 | Posição | Participante | Pontos | 
