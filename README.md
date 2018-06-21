@@ -6,7 +6,7 @@ Classificação (Atualizado 18/06)
 
 | Posição | Participante | Pontos | 
 | :----: | :----: | :----: | 
-| 1º | Vico | 50 |
+| 1º | Vico | 52 |
 | 2º | Cris | 45 |
 | 3º | Matheus | 41 |
 | 4º | Victor | 38 |
