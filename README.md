@@ -8,14 +8,14 @@ Classificação (Atualizado 22/06)
 | :----: | :----: | :----: | 
 | 1º | Vico | 63 |
 | 2º | Cris | 51 |
-| 7º | Bohry | 45 |
-| 5º | Gabriel | 45 |
-| 3º | Matheus | 44 |
-| 6º | Deivid | 44 |
-| 4º | Victor | 43 |
-| 10º | Callegas | 42 |
-| 7º | Bolão | 40 |
-| 7º | Guilherme | 40 |
+| 3º | Bohry | 45 |
+| 3º | Gabriel | 45 |
+| 5º | Matheus | 44 |
+| 5º | Deivid | 44 |
+| 7º | Victor | 43 |
+| 8º | Callegas | 42 |
+| 10º | Bolão | 40 |
+| 10º | Guilherme | 40 |
 
 
 
