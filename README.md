@@ -6,16 +6,18 @@ Classificação (Atualizado 18/06)
 
 | Posição | Participante | Pontos | 
 | :----: | :----: | :----: | 
-| 1º | Vico | 55 |
-| 2º | Cris | 48 |
+| 1º | Vico | 63 |
+| 2º | Cris | 51 |
+| 7º | Bohry | 45 |
+| 5º | Gabriel | 45 |
 | 3º | Matheus | 44 |
+| 6º | Deivid | 44 |
 | 4º | Victor | 43 |
-| 5º | Gabriel | 42 |
-| 6º | Deivid | 41 |
+| 10º | Callegas | 42 |
 | 7º | Bolão | 40 |
 | 7º | Guilherme | 40 |
-| 7º | Bohry | 40 |
-| 10º | Callegas | 39 |
+
+
 
 
 
