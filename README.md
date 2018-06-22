@@ -10,12 +10,12 @@ Classificação (Atualizado 18/06)
 | 2º | Cris | 48 |
 | 3º | Matheus | 44 |
 | 4º | Victor | 43 |
-| 4º | Deivid | 41 |
-| 6º | Bolão | 40 |
-| 6º | Guilherme | 40 |
-| 6º | Bohry | 40 |
-| 9º | Callegas | 39 |
-| 9º | Gabriel | 42 |
+| 5º | Gabriel | 42 |
+| 6º | Deivid | 41 |
+| 7º | Bolão | 40 |
+| 7º | Guilherme | 40 |
+| 7º | Bohry | 40 |
+| 10º | Callegas | 39 |
 
 
 
