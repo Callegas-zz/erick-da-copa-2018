@@ -11,7 +11,6 @@ Classificação (Atualizado 09/07)
 | 3º | Bohry | 135 |
 | 4º | Cris | 128 |
 | 5º | Gabriel | 124 |
-
 | 6º | Guilherme | 112 |
 | 7º | Matheus | 117 |
 | 8º | Bolão | 107 |
